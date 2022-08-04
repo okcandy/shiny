@@ -1,1 +1,3 @@
-print("hello")
+# UI
+# server (I/O)
+# app
